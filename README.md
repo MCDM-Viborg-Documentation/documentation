@@ -2,10 +2,12 @@
 
 ## Dette er en oversigt over dokumentationen.
 
-:bulb: Under udarbejdelse så hvis der er nogen tvivl spørg Anders over Teams.
+:bulb: Under udarbejdelse så hvis der er nogen tvivl spørg Anders Christensen.
 
 ## 1. Opgaver
-  
+
+NextJS - Galleries (Kapitel 1 og 2).
+NextHS - Galleries Dashboard.
 
 
 ## 2. Vejledninger

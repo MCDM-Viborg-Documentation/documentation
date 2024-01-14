@@ -1,6 +1,6 @@
 # Media College Documentation
 
-## Dette er en oversigt over dokumentationen.
+## Dette er en oversigt over dokumentation, vejledninger m.m.
 
 :bulb: Under udarbejdelse så hvis der er nogen tvivl spørg Anders Christensen.
 
